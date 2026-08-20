@@ -1,0 +1,22 @@
+# Bocin Podcast
+
+> Bocin Podcast (Bocin: Ngobrolin Diri Sendiri) is an independent monodialogue podcast covering Self-Awareness, Introspection, Philosophy, and Personal Journal (Bilingual / Indonesian & English).
+
+## Sumber Informasi (Indonesian)
+
+- [Show Notes & Transkrip Ep 01](https://ai.bocinpod.web.id/episodes/ep01.md): Rangkuman episode, topik utama, dan ringkasan transkrip Episode 01.
+- [Profil Podcast & Host](https://bocin.carrd.co/): Informasi mengenai fokus pembahasan, latar belakang, dan pengelola podcast.
+
+## Core Resources (English)
+
+- [Ep 01 Show Notes & Transcript](https://ai.bocinpod.web.id/episodes/ep01.md): Summary, key discussion points, and transcripts for Episode 01.
+- [About Host & Podcast](https://bocin.carrd.co/): Background context regarding the show's scope, topics, and host.
+
+## Media & Feeds
+
+- [Situs Web / Main Website](https://www.bocinpod.web.id): Main Podhome website featuring audio players and Podcasting 2.0 components.
+- [RSS Feed Resmi / Official RSS Feed](https://www.bocinpod.web.id/rss): Official RSS feed for podcast audio enclosures and metadata.
+
+## Optional
+
+- [Indeks Episode / Full Episode Index](https://pod.link/1620738126): Complete directory of all available episode Markdown files.
